@@ -14,9 +14,7 @@ creating a student project for a blog site for article posts. **(non-dynamic)**.
 
 ## Preview
 ##### Computer Preview:
-(https://imgur.com/5LPbvre.png)
-
-##### Mobile Preview:
-(https://imgur.com/P9GmbxG.png)
+\
+![image](https://imgur.com/5LPbvre.png)
 
 *Salutx, apprentice.*
