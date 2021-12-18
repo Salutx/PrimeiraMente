@@ -16,8 +16,6 @@ creating a student project for a blog site for article posts. **(non-dynamic)**.
 ##### Computer Preview:
 (https://imgur.com/5LPbvre.png)
 
-\
-
 ##### Mobile Preview:
 (https://imgur.com/P9GmbxG.png)
 
